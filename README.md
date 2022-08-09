@@ -25,6 +25,6 @@ Drei Bäume ![Baum](https://user-images.githubusercontent.com/110892742/18360085
 
 
 
-| Apfel | Bananane |
-| --- | --- |
-| A | B |
+| Frucht | Apfel | Bananane |
+| --- | --- | --- |
+| Ob es Fein ist | ja | nein |
