@@ -2,9 +2,9 @@
 
 Bruh
 
-**Hello**
+**Hello
 
-*there*
+*there
 
 [https://www.youtube.com/watch?v=dQw4w9WgXcQ]
 
@@ -14,7 +14,7 @@ Bruh
 
 
 
- `Help`
+ `Help
 
 
-```Moin Meister```
+```Moin Meister
