@@ -5,7 +5,7 @@ Bruh
 **Hello There!**
 
 *Dies ist ein Probetext von dieser Seite.
-Bitte lesen AGB durch stimmen dazu.*
+Bitte lesen AGB durch und stimmen dazu.*
 
 
 
