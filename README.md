@@ -17,7 +17,5 @@ Bruh
  `Help`
 
 | Apfel | Bananane |
-
 | Habe | keine | intresse |
-
 | A | B |
