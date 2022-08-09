@@ -28,3 +28,14 @@ Drei Bäume ![Baum](https://user-images.githubusercontent.com/110892742/18360085
 | Frucht | Apfel | Bananane |
 | --- | --- | --- |
 | Ob es Fein ist | ja | nein |
+
+
+
+
+
+```C#
+Trying my Best;
+
+Sucssescion?
+{ Failed
+{ Do you want to Try again?
