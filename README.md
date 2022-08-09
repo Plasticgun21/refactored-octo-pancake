@@ -16,18 +16,6 @@ Bruh
 
  `Help`
 
-```c#
-using System;
-
-namespace HelloWorld
-{
-  class Program
-  {
-    static void Main(string[] args)
-    {
-      Console.WriteLine("Hello World!");    
-    }
-  }
-}```
-![image](https://user-images.githubusercontent.com/110892742/183602832-d27c28c1-3dec-4274-a7cf-34756c7c5d21.png)
-
+| A | B |
+| Habe | keine | intresse |
+| 1 | 2 |
