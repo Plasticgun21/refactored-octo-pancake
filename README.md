@@ -16,6 +16,6 @@ Bruh
 
  `Help`
 
-| A | B |
+| Header Apfel | Header Bananane |
 | Habe | keine | intresse |
-| 1 | 2 |
+| Content A| Content B |
