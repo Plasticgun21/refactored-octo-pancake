@@ -17,5 +17,5 @@ Drei Bäume ![Baum](https://user-images.githubusercontent.com/110892742/18360085
  `Help`
 
 | Apfel | Bananane |
-| Habe | keine | intresse |
+| --- | --- | --- |
 | A | B |
